@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2020-09-02T20:12:03.284Z"
+title: Hello World! Welcome to Good Senze
+date: "2020-10-02T20:12:03.284Z"
 description: "Hello World"
 ---
 

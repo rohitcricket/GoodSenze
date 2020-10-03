@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `GoodSenze Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `GoodSense Folks`,
+      summary: `who live and work in North America doing useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
