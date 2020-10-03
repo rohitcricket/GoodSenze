@@ -1,12 +1,31 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-09-02T20:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is our first post on our blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+We want to talk about how we came up with the name of our site: GoodSenze. We believe that
+folks have lost what is known as 'common sense' or in the folksy version, good sense. 
+What is common sense? A dictionary defintion says it is good sense and sound judgment in practical matters.
+Good sense is just understanding reality and behaving accordingly. 
+
+Covid-19 is a wakeup call for entrepreneurs and folks in general. Expert advice givers recognize that 
+and you see an explosion of services promising instant success via ...
+
+But does that all make sense? What about challenging the status-quo? The standard advice? What about 
+questioning how one should move forward in the post covid-19 world? 
+
+Our approach is different. We don't promise instant results and don't charge $$$. Our approach is:
+1. Identify the real problems? What is getting in your way of success?
+2. The three cirles: you, others and the market.
+3. Pay-as-you go model. We start with blogs, ebooks, and pay-as-you go consulting. 
+4. We believe in 'traction' and 'momentum'. Folks focus on the 'start' and then the celebratory or failed end. Starts are really important, but what about, as Scott Belsky noted, what about the 'messy middle'? 
+
+Gaining traction and momentum is the way to deal with the messy middle. 
+
+<!-- --
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
@@ -164,7 +183,7 @@ Paragraph:
 
     Code
 
-<!-- -->
+<!-- 
 
     Paragraph:
 
@@ -229,3 +248,4 @@ This paragraph has some `code` in it.
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
     ![Alt Text](https://placehold.it/200x50 "Image Title")
+-->
