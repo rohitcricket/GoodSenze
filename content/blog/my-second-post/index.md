@@ -1,13 +1,10 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Revenue Recovery and Revenue Building
+date: "2020-10-23T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+Wow! We love blogging so much already.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Currently, businesses are either focused on revenue recovery or revenue building, depending whether you were an existing business before Covid-19 hit, or a new business just starting out. Do you know the key constraints of each case?
 
-Yeah, I didn't either.
+
