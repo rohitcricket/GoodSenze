@@ -1,10 +1,15 @@
 ---
-title: Post Covid-19--New Beginnings
+title: New Beginnings Post Covid-19
 date: "2020-10-11T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: "Are you going to go back to normal, or will you create a new beginning?"
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
+A lot of folks are waiting to get back to normal. That will happen. People will travel again, hold conferences and go to large gatherings -- in about a year or so when vaccines are widely available and distributed.
+
+However, many things will not go back to normal. One is business strategy and development. A lot of folks have been running their businesses by the seat of their pants. They did not consider situations like Covid-19. They usually wave the idea of business insurance or 'red teaming' or 'premortems' or 'placing smart bets'.
+
+
+<!-- Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.
@@ -105,4 +110,4 @@ would be the word "and" and the Little Blind Text should turn around and return
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+for their projects again and again. -->

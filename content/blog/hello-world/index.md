@@ -1,7 +1,7 @@
 ---
 title: Hello World! Welcome to Good Senze
 date: "2020-10-02T20:12:03.284Z"
-description: "Hello World"
+description: "Hello World! Welcome to our blog of Good Sense."
 ---
 
 This is our first post on our blog! How exciting!
